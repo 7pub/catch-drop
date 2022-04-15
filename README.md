@@ -1,4 +1,4 @@
-# Snapdrop www.showtime.one (Inspired by Apple's Airdrop)
+# Showtime.one is Snapdrop Inspired by Apple's Airdrop 
 
 [Snapdrop](https://showtime.one): Sende Bilder/Musik im eigenen Heimnetzwerk. Ganz ohne Installation
 #### Snapdrop ist mit den folgenden Technologien aufgebaut:
