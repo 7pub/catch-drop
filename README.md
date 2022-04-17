@@ -1,4 +1,4 @@
-# Snapdrop Inspired by Apple's Airdrop 
+# CatchDrop is fork from snapdrop and Inspired by Apple's Airdrop 
 
 [Snapdrop](https://showtime.one): Sende Bilder/Musik im eigenen Heimnetzwerk. Ganz ohne Installation
 #### Snapdrop ist mit den folgenden Technologien aufgebaut:
